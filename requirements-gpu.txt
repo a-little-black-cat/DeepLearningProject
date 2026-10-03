@@ -1,0 +1,9 @@
+# Native Windows GPU support is provided by TensorFlow 2.10.1.
+# TensorFlow 2.11+ does not ship CUDA support for native Windows.
+tensorflow==2.10.1
+numpy==1.23.5
+matplotlib
+opencv-python<5
+scikit-learn
+kagglehub
+keras-tuner
